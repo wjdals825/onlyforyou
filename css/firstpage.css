@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Hi+Melody'); /*font-family: 'Hi Melody', cursive;*/
+@import url('https://fonts.googleapis.com/css?family=Gamja+Flower'); /*font-family: 'Gamja Flower', cursive;*/
+
+
+
+f1 { font-family: 'Gamja Flower', cursive; color: rgb(255, 208, 0); font-size: 60pt;}
+f2 { font-family: 'Gamja Flower', cursive; color: rgb(68, 61, 61); font-size: 19pt;
+     text-align: center; margin-top: 80px;}
+f3 { font-family: 'Gamja Flower', cursive; color: rgb(68, 61, 61); font-size: 15pt;}

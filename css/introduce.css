@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Gamja+Flower'); /*font-family: 'Gamja Flower', cursive;*/
+
+a { color: #0060B6; text-decoration: none;}
+a:hover { color:#00A0C6;  text-decoration:none; cursor:pointer;}
+n1 { font-family: 'Gamja Flower', cursive; color: rgb(255, 208, 0); font-size: 60pt;}
+n2 { font-family: 'Gamja Flower', cursive; color : rgb(68,61,61); font-size:25pt;}
+n3 { font-family: 'Gamja Flower', cursive; color :white; font-size:35pt;}
+n4 { font-family: 'Gamja Flower', cursive; color:rgb(139, 0, 139); font-size:25pt;}
+table {border-style:dotted; border-color:pink; }

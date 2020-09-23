@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Hi+Melody'); /*font-family: 'Hi Melody', cursive;*/
+@import url('https://fonts.googleapis.com/css?family=Gamja+Flower'); /*font-family: 'Gamja Flower', cursive;*/
+
+i1 { font-family: 'Gamja Flower', cursive; color: rgb(255, 208, 0); font-size: 60pt;}
+i2 { font-family: 'Gamja Flower', cursive; color:  rgb(68, 61, 61); font-size: 20pt;}
+a { color: #0060B6; text-decoration: none;}
+a:hover { color:#00A0C6;  text-decoration:none; cursor:pointer;}
+table{border-style : solid; border-color : rgb(255, 229, 189);}
